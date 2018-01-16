@@ -4,3 +4,7 @@ how to use ?
 	cd build
 	cmake ..
 	make
+
+./mainpro -s hello
+	md5: 5d41402abc4b2a76b9719d911017c592
+
