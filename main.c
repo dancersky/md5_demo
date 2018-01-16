@@ -62,5 +62,5 @@ int main(int argc, char *argv[])
 	}
 	/*output md5 value*/
 	fprintf(stdout, "md5: %s\n", md5);
-	
+	return 0;
 }
