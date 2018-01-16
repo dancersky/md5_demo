@@ -4,8 +4,8 @@
 #include <getopt.h>  
 #include "md5/md5c.h"
 
-#define STR_MD5 		   0
-#define FILE_MD5           1
+#define STR_MD5		0
+#define FILE_MD5	1
 
 static void usage(void)
 {
