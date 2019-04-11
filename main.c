@@ -7,6 +7,8 @@
 #define STR_MD5		0
 #define FILE_MD5	1
 
+//测试上传到github---for company
+
 static void usage(void)
 {
     fprintf(stderr,
